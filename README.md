@@ -14,3 +14,5 @@ Evaluations:
 - training loss vs the number of epochs
 - test accuracy vs the degree of rotation
 - test accuracy vs Gaussian blurring
+
+Use google cloud (with gpu) to test the code.
